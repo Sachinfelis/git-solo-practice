@@ -1,1 +1,1 @@
-"Day 1: Learning Git."
+"Day 1: Learning Git is awsome!."
