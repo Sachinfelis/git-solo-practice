@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-"Day 1: Learning Git is confusing but fun."
-"Day 2: Writing a secret draft."
-=======
-"Day 1: Learning Git is awsome, confuding and fun."
->>>>>>> a0b0ca8e9f3f049dda4912b857f8a994d0fcdf48
